@@ -1,5 +1,7 @@
 # Solving Job Shop Scheduling problem Using Backtracking Algorithm.
-Penerapan Constraint Satisfaction Problem pada Permasalahan Job Shop Scheduling dengan Menggunakan Algoritma Backtracking
+## Penerapan Constraint Satisfaction Problem pada Permasalahan Job Shop Scheduling dengan Menggunakan Algoritma Backtracking
+
+Perancangan sistem mengatasi permasalahan job shop scheduling menggunakan algoritma backtracking
 
 IPB University - Departemen Ilmu Komputer
 Mata kuliah KOM321 Kecerdasan Buatan
