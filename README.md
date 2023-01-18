@@ -6,7 +6,6 @@ Perancangan sistem mengatasi permasalahan job shop scheduling menggunakan algori
 IPB University - Departemen Ilmu Komputer
 Mata kuliah KOM321 Kecerdasan Buatan
 Kelas K2 Kelompok 4
-
 Daftar anggota:
 - Sabrina Diza Melinda  (G64180029)
 - Zahra Aulia Firdausi  (G64180030)
